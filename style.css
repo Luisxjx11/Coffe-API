@@ -79,3 +79,8 @@
 figcaption{
     font-size: 30px;
 }
+
+.center-image {
+    max-width: 90%;
+    margin: 0 auto; 
+}
