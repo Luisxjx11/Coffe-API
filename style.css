@@ -73,3 +73,16 @@
 figcaption{
     font-size: 30px;
 }
+
+@media (max-width: 768px)
+    .imagem{ 
+        max-width: 100%;
+    }
+    .legenda {
+        font-size: 26px;
+        padding: 0 10px;
+    }
+
+    .center-imagem, .legenda-container{
+        padding: 10px;
+    }
